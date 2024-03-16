@@ -5,7 +5,6 @@
       "repo": "https://github.com/YumeMichi/kernel_xiaomi_sdm845",
       "branch": "dev",
       "device": "polaris",
-      "defconfig": "nogravity-polaris_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
