@@ -7,7 +7,7 @@
       "device": "polaris",
       "defconfig": "nogravity-polaris_defconfig"
     },
-    "withKernelSU": true,
+    "withKernelSU": flase,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
