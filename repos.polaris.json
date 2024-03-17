@@ -10,37 +10,37 @@
     "withKernelSU": false,
     "toolchains": [
       {
-        "repo": "https://github.com/kdrag0n/proton-clang",
+        "repo": "https://gitlab.com/jjpprrrr/prelude-clang",
         "branch": "master",
-        "name": "proton-clang",
-        "binPath": ["./bin"]
+        "name": "prelude-clang",
+        "binPath": ["bin"]
       }
     ],
     "ccache": true,
     "params": {
       "ARCH": "arm64",
-      "CC": "proton-clang/bin/clang",
+      "CC": "prelude-clang/bin/clang",
       "externalCommand": {
-        "CROSS_COMPILE": "proton-clang/bin/aarch64-linux-gnu-",
-        "CROSS_COMPILE_ARM32": "proton-clang/bin/arm-linux-gnueabi-",
-        "LD": "proton-clang/bin/ld.lld",
-        "AR": "proton-clang/bin/llvm-ar",
-        "NM": "proton-clang/bin/llvm-nm",
-        "OBJCOPY": "proton-clang/bin/llvm-objcopy",
-        "OBJDUMP": "proton-clang/bin/llvm-objdump",
-        "READELF": "proton-clang/bin/llvm-readelf",
-        "OBJSIZE": "proton-clang/bin/llvm-size",
-        "STRIP": "proton-clang/bin/llvm-strip",
-        "LDGOLD": "proton-clang/bin/aarch64-linux-gnu-ld.gold",
-        "LLVM_AR": "proton-clang/bin/llvm-ar",
-        "LLVM_DIS": "proton-clang/bin/llvm-dis"
+        "CROSS_COMPILE": "prelude-clang/bin/aarch64-linux-gnu-",
+        "CROSS_COMPILE_ARM32": "prelude-clang/bin/arm-linux-gnueabi-",
+        "LD": "prelude-clang/bin/ld.lld",
+        "AR": "prelude-clang/bin/llvm-ar",
+        "NM": "prelude-clang/bin/llvm-nm",
+        "OBJCOPY": "prelude-clang/bin/llvm-objcopy",
+        "OBJDUMP": "prelude-clang/bin/llvm-objdump",
+        "READELF": "prelude-clang/bin/llvm-readelf",
+        "OBJSIZE": "prelude-clang/bin/llvm-size",
+        "STRIP": "prelude-clang/bin/llvm-strip",
+        "LDGOLD": "prelude-clang/bin/aarch64-linux-gnu-ld.gold",
+        "LLVM_AR": "prelude-clang/bin/llvm-ar",
+        "LLVM_DIS": "prelude-clang/bin/llvm-dis"
       }
     },
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/easterNday/AnyKernel3/",
-      "branch": "thyme"
+      "repo": "https://github.com/Shuery-Shuai/AnyKernel3",
+      "branch": "polaris"
     }
   }
 ]
