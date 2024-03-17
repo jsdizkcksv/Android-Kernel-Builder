@@ -10,30 +10,31 @@
     "withKernelSU": false,
     "toolchains": [
       {
-        "repo": "https://gitlab.com/jjpprrrr/prelude-clang",
-        "branch": "master",
-        "name": "prelude-clang",
-        "binPath": ["bin"]
+        "url": "https://github.com/ZyCromerZ/Clang/releases/download/17.0.0-20230718-release/Clang-17.0.0-20230718.tar.gz",
+        "name": "custom-clang",
+        "binPath": ["./bin"]
       }
     ],
     "ccache": true,
     "params": {
       "ARCH": "arm64",
-      "CC": "prelude-clang/bin/clang",
+      "CC": "custom-clang/bin/clang",
       "externalCommand": {
-        "CROSS_COMPILE": "prelude-clang/bin/aarch64-linux-gnu-",
-        "CROSS_COMPILE_ARM32": "prelude-clang/bin/arm-linux-gnueabi-",
-        "LD": "prelude-clang/bin/ld.lld",
-        "AR": "prelude-clang/bin/llvm-ar",
-        "NM": "prelude-clang/bin/llvm-nm",
-        "OBJCOPY": "prelude-clang/bin/llvm-objcopy",
-        "OBJDUMP": "prelude-clang/bin/llvm-objdump",
-        "READELF": "prelude-clang/bin/llvm-readelf",
-        "OBJSIZE": "prelude-clang/bin/llvm-size",
-        "STRIP": "prelude-clang/bin/llvm-strip",
-        "LDGOLD": "prelude-clang/bin/aarch64-linux-gnu-ld.gold",
-        "LLVM_AR": "prelude-clang/bin/llvm-ar",
-        "LLVM_DIS": "prelude-clang/bin/llvm-dis"
+        "CROSS_COMPILE": "custom/aarch64-linux-gnu-",
+        "CROSS_COMPILE_ARM32": "custom-clang/arm-linux-gnueabi-",
+        "LLVM": "custom-clang/bin/",
+        "LLVM_IAS": "custom-clang/bin/",
+        "LD": "custom-clang/bin/ld.lld",
+        "AR": "custom-clang/bin/llvm-ar",
+        "NM": "custom-clang/bin/llvm-nm",
+        "OBJCOPY": "custom-clang/bin/llvm-objcopy",
+        "OBJDUMP": "custom-clang/bin/llvm-objdump",
+        "READELF": "custom-clang/bin/llvm-readelf",
+        "OBJSIZE": "custom-clang/bin/llvm-size",
+        "STRIP": "custom-clang/bin/llvm-strip",
+        "LDGOLD": "custom-clang/bin/aarch64-linux-gnu-ld.gold",
+        "LLVM_AR": "custom-clang/bin/llvm-ar",
+        "LLVM_DIS": "custom-clang/bin/llvm-dis"
       }
     },
     "AnyKernel3": {
