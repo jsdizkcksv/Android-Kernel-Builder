@@ -5,7 +5,6 @@
       "repo": "https://github.com/LuoxueQWQ/kernel_xiaomi_sdm845-4.19",
       "branch": "staging5",
       "device": "polaris",
-      "defconfig": "polaris.config"
     },
     "withKernelSU": false,
     "toolchains": [
