@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "4.19_Luo_android_kernel_xiaomi_sdm845",
-      "repo": "https://github.com/tanz3/kernel_xiaomi_sdm845-4.19",
-      "branch": "lineage-20",
+      "repo": "https://github.com/LuoxueQWQ/kernel_xiaomi_sdm845-4.19",
+      "branch": "staging5",
       "device": "polaris",
       "defconfig": "gki_defconfig"
     },
