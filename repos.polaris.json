@@ -10,8 +10,8 @@
     "withKernelSU": false,
     "toolchains": [
       {
-        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "14",
+        "repo": "https://github.com/Akitlove/android-kernel-tools",
+        "branch": "clang13",
         "name": "clang13",
         "binPath": ["./bin"]
       }
@@ -34,11 +34,12 @@
         "LLVM_AR": "clang13/clang/host/linux-x86/clang-r428724/bin/llvm-ar",
         "LLVM_DIS": "clang13/clang/host/linux-x86/clang-r428724/bin/llvm-dis"
       }
+    },
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/Shuery-Shuai/AnyKernel3",
-      "branch": "polaris"
+      "repo": "https://github.com/Akitlove/AnyKernel3",
+      "branch": "master"
     }
   }
 ]
