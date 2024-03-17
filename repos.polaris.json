@@ -16,7 +16,7 @@
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "13",
+        "branch": "14",
         "name": "clang"
       }
     ],
