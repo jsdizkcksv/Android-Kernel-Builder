@@ -10,32 +10,24 @@
     "withKernelSU": false,
     "toolchains": [
       {
-        "url": "https://github.com/ZyCromerZ/Clang/releases/download/17.0.0-20230718-release/Clang-17.0.0-20230718.tar.gz",
-        "name": "custom-clang",
-        "binPath": ["./bin"]
+        "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
+        "branch": "master",
+        "name": "gas"
+      },
+      {
+        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
+        "branch": "13",
+        "name": "clang"
       }
     ],
-    "ccache": true,
     "params": {
       "ARCH": "arm64",
-      "CC": "custom-clang/bin/clang",
-      "externalCommand": {
-        "CROSS_COMPILE": "custom/aarch64-linux-gnu-",
-        "CROSS_COMPILE_ARM32": "custom-clang/arm-linux-gnueabi-",
-        "LLVM": "custom-clang/bin/",
-        "LLVM_IAS": "custom-clang/bin/",
-        "LD": "custom-clang/bin/ld.lld",
-        "AR": "custom-clang/bin/llvm-ar",
-        "NM": "custom-clang/bin/llvm-nm",
-        "OBJCOPY": "custom-clang/bin/llvm-objcopy",
-        "OBJDUMP": "custom-clang/bin/llvm-objdump",
-        "READELF": "custom-clang/bin/llvm-readelf",
-        "OBJSIZE": "custom-clang/bin/llvm-size",
-        "STRIP": "custom-clang/bin/llvm-strip",
-        "LDGOLD": "custom-clang/bin/aarch64-linux-gnu-ld.gold",
-        "LLVM_AR": "custom-clang/bin/llvm-ar",
-        "LLVM_DIS": "custom-clang/bin/llvm-dis"
-      }
+      "CROSS_COMPILE": "aarch64-linux-gnu-",
+      "CROSS_COMPILE_ARM32": "arm-linux-gnueabi-",
+      "CROSS_COMPILE_COMPAT": "arm-linux-gnueabi-",
+      "CLANG_TRIPLE": "aarch64-linux-gnu-",
+      "AR": "",
+      "CC": "clang"
     },
     "AnyKernel3": {
       "use": true,
