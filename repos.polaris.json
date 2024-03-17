@@ -10,8 +10,8 @@
     "withKernelSU": false,
     "toolchains": [
       {
-        "repo": "https://github.com/pkm774/android-kernel-tools",
-        "branch": "tools",
+        "repo": "https://github.com/Akitlove/android-kernel-tools",
+        "branch": "clang13",
         "name": "clang13",
         "binPath": ["./bin"]
       }
