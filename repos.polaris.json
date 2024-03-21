@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "4.19_Luo_android_kernel_xiaomi_sdm845",
+      "name": "Xiaomi_Kernel_OpenSource-sdm845",
       "repo": "https://github.com/tanz3/kernel_xiaomi_sdm845-4.19",
       "branch": "staging5",
       "device": "polaris",
-      "defconfig": "defconfig"
+      "defconfig": "gki_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
