@@ -10,7 +10,7 @@
     "withKernelSU": false,
     "toolchains": [
       {
-        "repo": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9",
+        "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
         "branch": "master",
         "name": "gas"
       },
@@ -28,7 +28,7 @@
       "CLANG_TRIPLE": "aarch64-linux-gnu-",
       "AR": "",
       "CC": "clang"
-    },
+    },  
     "AnyKernel3": {
       "use": true,
       "release": true,
