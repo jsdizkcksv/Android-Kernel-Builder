@@ -10,8 +10,8 @@
     "withKernelSU": true,
     "toolchains": [
       {
-        "repo": "https://github.com/Akitlove/android-kernel-tools",
-        "branch": "clang13",
+        "repo": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/",
+        "branch": "android-msm-redbull-4.19-android13",
         "name": "clang13",
         "binPath": ["./bin"]
       }
