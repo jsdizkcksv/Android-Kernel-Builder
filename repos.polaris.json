@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi_Kernel_OpenSource-sdm845",
-      "repo": "https://github.com/Akitlove/Xiaomi_Kernel_OpenSource-sdm845",
+      "name": "android_kernel_xiaomi_sdm845",
+      "repo": "https://github.com/LuoxueQWQ/android_kernel_xiaomi_sdm845",
       "branch": "88-zstd",
       "device": "polaris",
-      "defconfig": "polaris_user_defconfig"
+      "defconfig": "polaris_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
