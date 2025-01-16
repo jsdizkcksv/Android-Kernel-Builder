@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "NGK_android_kernel_xiaomi_sdm845",
-      "repo": "https://github.com/LuoxueQWQ/NGK_android_kernel_xiaomi_sdm845",
-      "branch": "t-caf-ksu",
+      "repo": "https://github.com/jsdizkcksv/NGK_android_kernel_xiaomi_sdm845",
+      "branch": "master",
       "device": "polaris",
       "defconfig": "nogravity-polaris_defconfig"
     },
