@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_xiaomi_mido",
-      "repo": "https://github.com/zeelog/android_kernel_xiaomi_mido",
-      "branch": "lineage-20.0",
+      "name": "kernel_mido",
+      "repo": "https://github.com/jsdizkcksv/kernel_mido",
+      "branch": "mido",
       "device": "mido",
       "defconfig": "mido_defconfig"
     },
