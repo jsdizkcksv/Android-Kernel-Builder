@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_mido",
-      "repo": "https://github.com/jsdizkcksv/kernel_mido",
-      "branch": "mido",
+      "name": "android_kernel_mido",
+      "repo": "https://github.com/jsdizkcksv/android_kernel_mido",
+      "branch": "lineage-20.0",
       "device": "mido",
       "defconfig": "mido_defconfig"
     },
