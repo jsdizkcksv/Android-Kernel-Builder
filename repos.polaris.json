@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "android_kernel_mido",
-      "repo": "https://github.com/AlphaDroid-devices/kernel_xiaomi_mido",
-      "branch": "alpha-14",
+      "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_mido",
+      "branch": "alpha-13",
       "device": "mido",
       "defconfig": "mido_defconfig"
     },
