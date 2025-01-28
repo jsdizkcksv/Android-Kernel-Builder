@@ -3,11 +3,11 @@
     "kernelSource": {
       "name": "android_kernel_mido",
       "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_mido",
-      "branch": "alpha-13",
+      "branch": "fifteen",
       "device": "mido",
       "defconfig": "mido_defconfig"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
