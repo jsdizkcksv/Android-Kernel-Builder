@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_xiaomi_mido",
-      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_mido",
-      "branch": "thirteen",
+      "name": "android_kernel_xiaomi_msm8953",
+      "repo": "https://github.com/user-why-red/android_kernel_xiaomi_msm8953_49",
+      "branch": "android-4.9-stable",
       "device": "mido",
-      "defconfig": "mido_defconfig"
+      "defconfig": "mido-perf_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
