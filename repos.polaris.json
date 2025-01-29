@@ -3,9 +3,9 @@
     "kernelSource": {
       "name": "android_kernel_xiaomi_mido",
       "repo": "https://github.com/smokey18/kernel_xiaomi_mido",
-      "branch": "thirteen",
+      "branch": "lineage-21",
       "device": "mido",
-      "defconfig": "mido_defconfig"
+      "defconfig": "msm8953-perf_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
