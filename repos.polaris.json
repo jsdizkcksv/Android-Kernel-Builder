@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "android_kernel_xiaomi_mido",
-      "repo": "https://github.com/Rsyd58/android_kernel_xiaomi",
-      "branch": "mido-4.9",
+      "repo": "https://github.com/smokey18/kernel_xiaomi_mido",
+      "branch": "thirteen",
       "device": "mido",
       "defconfig": "mido_defconfig"
     },
