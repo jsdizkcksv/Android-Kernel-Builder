@@ -5,7 +5,7 @@
       "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_mido",
       "branch": "thirteen",
       "device": "mido",
-      "defconfig": "msm8953-perf_defconfig"
+      "defconfig": "mido_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
