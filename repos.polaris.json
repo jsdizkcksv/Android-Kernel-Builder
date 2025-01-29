@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_xiaomi_mido",
-      "repo": "https://github.com/id-sakurata/psionic_kernel_xiaomi_mido",
-      "branch": "android-14",
+      "name": "android_kernel_xiaomi_msm8953",
+      "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_vince",
+      "branch": "main",
       "device": "mido",
       "defconfig": "mido_defconfig"
     },
