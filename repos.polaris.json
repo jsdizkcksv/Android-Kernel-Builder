@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "android_kernel_xiaomi_mido",
-      "repo": "https://github.com/RaidenShogunSeggs/android_kernel_xiaomi_mido",
-      "branch": "13",
+      "repo": "https://github.com/Serp3n7/Astraea-kernel-mido",
+      "branch": "Android-13",
       "device": "mido",
       "defconfig": "mido_defconfig"
     },
