@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_xiaomi_msm8953",
-      "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_vince",
-      "branch": "main",
+      "name": "android_kernel_xiaomi_mido",
+      "repo": "https://github.com/RaidenShogunSeggs/android_kernel_xiaomi_mido",
+      "branch": "13",
       "device": "mido",
       "defconfig": "mido_defconfig"
     },
