@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_xiaomi_vince",
-      "repo": "https://github.com/FurinaDeFountaine1310/android_kernel_xiaomi_vince",
-      "branch": "14-KSU-BPF",
-      "device": "vince",
-      "defconfig": "vince_defconfig"
+      "name": "android_kernel_xiaomi_ugg",
+      "repo": "https://github.com/jsdizkcksv/android_kernel_xiaomi_msm8937",
+      "branch": "a13/master",
+      "device": "ugg",
+      "defconfig": "ugg_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
