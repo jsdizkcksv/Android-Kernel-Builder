@@ -2,12 +2,12 @@
   {
     "kernelSource": {
       "name": "android_kernel_xiaomi_vince",
-      "repo": "https://github.com/aospa-vince/android_kernel_xiaomi_vince",
-      "branch": "uvite",
+      "repo": "https://github.com/FurinaDeFountaine1310/android_kernel_xiaomi_vince",
+      "branch": "14-KSU-BPF",
       "device": "vince",
-      "defconfig": "vince-perf_defconfig"
+      "defconfig": "vince_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
