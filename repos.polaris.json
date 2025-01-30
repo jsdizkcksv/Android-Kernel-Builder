@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "android_kernel_xiaomi_vince",
-      "repo": "https://github.com/OctaviOS-Devices/kernel_xiaomi_vince",
-      "branch": "13",
+      "repo": "https://github.com/aospa-vince/android_kernel_xiaomi_vince",
+      "branch": "uvite",
       "device": "vince",
-      "defconfig": "vince_defconfig"
+      "defconfig": "vince-perf_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
