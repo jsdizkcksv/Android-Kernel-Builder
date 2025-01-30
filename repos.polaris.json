@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_xiaomi_mido",
-      "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_mido",
-      "branch": "thirteen",
-      "device": "mido",
-      "defconfig": "mido_defconfig"
+      "name": "android_kernel_xiaomi_vince",
+      "repo": "https://github.com/OctaviOS-Devices/kernel_xiaomi_vince",
+      "branch": "13",
+      "device": "vince",
+      "defconfig": "vince_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
