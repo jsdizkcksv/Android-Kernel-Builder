@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "android_kernel_msm8150",
-      "repo": "https://github.com/hotdogg-dev/android_kernel_oneplus_sm8150",
-      "branch": "14.0",
+      "repo": "https://github.com/PixelExperience-Devices/kernel_oneplus_sm8150",
+      "branch": "fourteen",
       "device": "sm8150",
       "defconfig": "vendor/sm8150-perf_defconfig"
     },
