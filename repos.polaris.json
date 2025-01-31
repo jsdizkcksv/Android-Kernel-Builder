@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "android_kernel_guacamole",
-      "repo": "https://github.com/PixelExperience-Devices/kernel_oneplus_guacamoleb",
-      "branch": "fourteen",
+      "repo": "https://github.com/LineageOS/android_kernel_oneplus_sm8150",
+      "branch": "lineage-22.1",
       "device": "guacamole",
-      "defconfig": "sm8150_defconfig"
+      "defconfig": "lineage_sm8150_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
