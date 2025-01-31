@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_guacamole",
-      "repo": "https://github.com/OnePlusOSS/android_kernel_oneplus_sm8150",
-      "branch": "oneplus/sm8150_s_12.1_op7pro",
-      "device": "guacamole",
-      "defconfig": "sm8150_defconfig"
+      "name": "android_kernel_msm8150",
+      "repo": "https://github.com/hotdogg-dev/android_kernel_oneplus_sm8150",
+      "branch": "14.0",
+      "device": "sm8150",
+      "defconfig": "sm8150-perf_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
