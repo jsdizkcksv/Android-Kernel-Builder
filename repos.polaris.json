@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_xiaomi_ugg",
-      "repo": "https://github.com/jsdizkcksv/android_kernel_xiaomi_msm8937",
-      "branch": "a13/master",
-      "device": "ugg",
-      "defconfig": "ugg_defconfig"
+      "name": "android_kernel_xiaomi_mido",
+      "repo": "https://github.com/RaidenShogunSeggs/android_kernel_xiaomi_mido",
+      "branch": "a13",
+      "device": "mido",
+      "defconfig": "mido_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
