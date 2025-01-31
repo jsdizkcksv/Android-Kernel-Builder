@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_xiaomi_mido",
-      "repo": "https://github.com/RaidenShogunSeggs/android_kernel_xiaomi_mido",
-      "branch": "13",
-      "device": "mido",
-      "defconfig": "mido_defconfig"
+      "name": "android_kernel_guacamole",
+      "repo": "https://github.com/PixelExperience-Devices/kernel_oneplus_guacamoleb",
+      "branch": "fourteen",
+      "device": "guacamole",
+      "defconfig": "sm8150_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
