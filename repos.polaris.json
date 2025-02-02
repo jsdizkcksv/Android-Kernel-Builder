@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_sirius",
-      "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_sdm710",
+      "name": "android_kernel_sm8150",
+      "repo": "https://github.com/chandu078/android_kernel_oneplus_sm8150",
       "branch": "thirteen",
-      "device": "sirius",
-      "defconfig": "sirius_defconfig"
+      "device": "sm8150",
+      "defconfig": "sm8150-perf_defconfig"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
