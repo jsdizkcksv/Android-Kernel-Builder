@@ -2,12 +2,12 @@
   {
     "kernelSource": {
       "name": "android_kernel_sirius",
-      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_sdm710",
+      "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_sdm710",
       "branch": "thirteen",
       "device": "sirius",
       "defconfig": "sirius_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
