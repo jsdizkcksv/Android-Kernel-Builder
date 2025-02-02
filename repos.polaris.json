@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "android_kernel_sm8150",
-      "repo": "https://github.com/mnrniloy/kernel_oneplus_sm8150",
-      "branch": "15",
+      "repo": "https://github.com/Onelots-Devices-Playground/kernel_oneplus_sm8150",
+      "branch": "vic",
       "device": "sm8150",
       "defconfig": "lineage_sm8150_defconfig"
     },
