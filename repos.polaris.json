@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_msm8150",
-      "repo": "https://github.com/0wnerDied/Neptune_kernel_sm8150_oneplus",
-      "branch": "U-Ice",
-      "device": "sm8150",
-      "defconfig": "neptune‎_defconfig"
+      "name": "android_kernel_sirius",
+      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_sdm710",
+      "branch": "thirteen",
+      "device": "sirius",
+      "defconfig": "sirius‎_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
