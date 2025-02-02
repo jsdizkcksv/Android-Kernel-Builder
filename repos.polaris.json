@@ -5,7 +5,7 @@
       "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_sdm710",
       "branch": "thirteen",
       "device": "sirius",
-      "defconfig": "sirius‎_defconfig"
+      "defconfig": "sirius_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
