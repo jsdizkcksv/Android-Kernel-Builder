@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_xiaomi_atom",
-      "repo": "https://github.com/HuaLiMao-AQ/android_kernel_xiaomi_mt6873",
-      "branch": "cgroup-v2",
-      "device": "atom",
-      "defconfig": "vendor/atom_user_defconfig"
+      "name": "android_kernel_xiaomi_oxygen",
+      "repo": "https://github.com/Mi-Thorium/kernel_msm-4.9",
+      "branch": "oxygen/a13/master",
+      "device": "oxygen",
+      "defconfig": "oxygen_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
