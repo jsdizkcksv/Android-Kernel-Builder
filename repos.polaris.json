@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "android_kernel_xiaomi_6x",
       "repo": "https://github.com/jsdizkcksv/AGNi_pureMIUI",
-      "branch": "AGNi_pureMIUI",
+      "branch": "AGNi_sdm660",
       "device": "wayne",
       "defconfig": "wayne-perf_defconfig"
     },
