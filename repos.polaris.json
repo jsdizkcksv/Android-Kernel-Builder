@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "android_kernel_xiaomi_mt6893",
-      "repo": "https://github.com/jsdizkcksv/MTK_6893",
-      "branch": "A15",
+      "repo": "https://github.com/jsdizkcksv/android_kernel_xiaomi_mt6893",
+      "branch": "ares",
       "device": "ares",
-      "defconfig": "ares_user_defconfig"
+      "defconfig": "ares_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
