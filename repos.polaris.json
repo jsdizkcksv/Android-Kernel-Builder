@@ -5,9 +5,9 @@
       "repo": "https://github.com/jsdizkcksv/android_kernel_xiaomi_mt6893",
       "branch": "ares",
       "device": "ares",
-      "defconfig": "stock_defconfig"
+      "defconfig": "ares_defconfig"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
