@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_mix2s",
-      "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_mix2s",
-      "branch": "A15",
-      "device": "mix2s",
-      "defconfig": "nogravity-polaris_defconfig"
+      "name": "kernel_xiaomi_renoir",
+      "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_renoir.git",
+      "branch": "renoir-r-oss",
+      "device": :"renoir",
+      "defconfig": "renoir_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
