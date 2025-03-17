@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "HyperOS2_android_kernel_xiaomi_sdm845",
-      "repo": "https://github.com/Akitlove/NGK_android_kernel_xiaomi_sdm845",
+      "repo": "https://github.com/MTK6893/kernel_xiaomi_sdm845",
       "branch": "A15",
       "device": "polaris",
       "defconfig": "hyperos-polaris_defconfig"
