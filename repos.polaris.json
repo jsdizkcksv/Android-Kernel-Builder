@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_renoir",
-      "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_renoir.git",
-      "branch": "renoir-r-oss",
-      "device": "renoir",
-      "defconfig": "renoir_defconfig"
+      "name": "kernel_xiaomi_ares",
+      "repo": "https://github.com/MTK6893/android_kernel_xiaomi_mt6893",
+      "branch": "ares",
+      "device": "ares",
+      "defconfig": "ares_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
