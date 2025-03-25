@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "kernel_xiaomi_alioth",
-      "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_alioth",
-      "branch": "main",
+      "repo": "https://github.com/jsdizkcksv/k40",
+      "branch": "master",
       "device": "alioth",
       "defconfig": "alioth_defconfig"
     },
