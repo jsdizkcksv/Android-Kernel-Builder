@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "kernel_xiaomi_alioth",
       "repo": "https://github.com/rcmiku/kernel_xiaomi_alioth",
-      "branch": "master",
+      "branch": "main",
       "device": "alioth",
       "defconfig": "alioth_defconfig"
     },
