@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "kernel_xiaomi_sdm660",
-      "repo": "https://github.com/jsdizkcksv/android_kernel_xiaomi_sdm660",
+      "repo": "https://github.com/crdroidandroid/android_kernel_xiaomi_sdm660",
       "branch": "14.0",
       "device": "clover",
       "defconfig": "clover_defconfig"
