@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_sdm660",
-      "repo": "https://github.com/crdroidandroid/android_kernel_xiaomi_sdm660",
-      "branch": "14.0",
-      "device": "clover",
-      "defconfig": "clover_defconfig"
+      "name": "kernel_xiaomi_sdm845",
+      "repo": "https://github.com/MTK6893/kernel_xiaomi_sdm845",
+      "branch": "A15",
+      "device": "dipper",
+      "defconfig": "dipper_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
