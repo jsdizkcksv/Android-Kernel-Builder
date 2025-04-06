@@ -5,7 +5,7 @@
       "repo": "https://github.com/MTK6893/kernel_xiaomi_sdm845",
       "branch": "A15",
       "device": "dipper",
-      "defconfig": "dipper_defconfig"
+      "defconfig": "nogravity-dipper_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
