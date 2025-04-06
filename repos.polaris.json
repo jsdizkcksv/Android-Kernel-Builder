@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_sdm845",
-      "repo": "https://github.com/MTK6893/kernel_xiaomi_sdm845",
+      "name": "kernel_xiaomi_gemini",
+      "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_8996",
       "branch": "A15",
-      "device": "dipper",
-      "defconfig": "nogravity-dipper_defconfig"
+      "device": "gemini",
+      "defconfig": "gemini_defconfig"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
