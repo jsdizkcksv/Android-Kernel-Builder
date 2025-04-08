@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_gemini",
-      "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_8996",
-      "branch": "A15",
-      "device": "gemini",
-      "defconfig": "gemini_defconfig"
+      "name": "kernel_xiaomi_mt6893",
+      "repo": "https://github.com/MTK6893/android_kernel_xiaomi_mt6893",
+      "branch": "Baklava",
+      "device": "ares",
+      "defconfig": "ares_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
