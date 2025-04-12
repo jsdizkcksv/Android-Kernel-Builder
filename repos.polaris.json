@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_mt6893",
-      "repo": "https://github.com/MTK6893/android_kernel_xiaomi_mt6893",
-      "branch": "chopin",
-      "device": "chopin",
-      "defconfig": "chopin_defconfig"
+      "name": "kernel_xiaomi_oxygen",
+      "repo": "https://github.com/jsdizkcksv/oxygen",
+      "branch": "master",
+      "device": "oxygen",
+      "defconfig": "oxygen_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
