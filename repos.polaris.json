@@ -3,11 +3,11 @@
     "kernelSource": {
       "name": "kernel_xiaomi_mt6893",
       "repo": "https://github.com/MTK6893/android_kernel_xiaomi_mt6893",
-      "branch": "chopin",
-      "device": "chopin",
-      "defconfig": "chopin_defconfig"
+      "branch": "ares",
+      "device": "ares",
+      "defconfig": "ares_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
