@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "kernel_xiaomi_mt6893",
       "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_ares",
-      "branch": "ares",
+      "branch": "U",
       "device": "ares",
       "defconfig": "ares_user_defconfig"
     },
