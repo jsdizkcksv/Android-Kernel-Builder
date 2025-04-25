@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_msm8937",
-      "repo": "https://github.com/jsdizkcksv/msm8937",
-      "branch": "master",
-      "device": "ugg",
-      "defconfig": "ugg_defconfig"
+      "name": "kernel_xiaomi_mt6893",
+      "repo": "https://github.com/MTK6893/android_kernel_xiaomi_mt6893",
+      "branch": "ares",
+      "device": "ares",
+      "defconfig": "ares_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
