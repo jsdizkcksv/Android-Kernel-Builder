@@ -2,12 +2,12 @@
   {
     "kernelSource": {
       "name": "kernel_xiaomi_mt6893",
-      "repo": "https://github.com/MTK6893/android_kernel_xiaomi_mt6893",
-      "branch": "ares",
-      "device": "ares",
-      "defconfig": "ares_defconfig"
+      "repo": "https://github.com/MTK6893/kernel_xiaomi_sdm845.git",
+      "branch": "A15",
+      "device": "nogravity-polaris",
+      "defconfig": "nogravity-polaris_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
