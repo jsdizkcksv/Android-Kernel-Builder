@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_mt6893",
-      "repo": "https://github.com/MTK6893/kernel_xiaomi_sdm845.git",
-      "branch": "A15",
-      "device": "nogravity-polaris",
-      "defconfig": "nogravity-polaris_defconfig"
+      "name": "kernel_xiaomi_phoenix_",
+      "repo": "https://github.com/jsdizkcksv/kernel_xiaomi_k30",
+      "branch": "master",
+      "device": "phoenix",
+      "defconfig": "phoenix_user_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
