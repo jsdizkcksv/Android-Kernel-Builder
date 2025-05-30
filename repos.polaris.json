@@ -5,7 +5,7 @@
       "repo": "https://github.com/jsdizkcksv/android_kernel_xiaomi_msm8937",
       "branch": "A16",
       "device": "msm8937",
-      "defconfig": "msm8937_defconfig"
+      "defconfig": "vendor/msm8937_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
