@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "kernel_xiaomi_msm8937",
-      "repo": "https://github.com/jsdizkcksv/android_kernel_xiaomi_msm8937",
+      "repo": "https://github.com/MTK6893/android_kernel_Note5A",
       "branch": "A16",
       "device": "msm8937",
-      "defconfig": "vendor/msm8937_defconfig"
+      "defconfig": "ugg_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
