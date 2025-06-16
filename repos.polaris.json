@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_msm8937",
-      "repo": "https://github.com/MTK6893/android_kernel_Note5A",
-      "branch": "cgroup_v2",
-      "device": "msm8937",
-      "defconfig": "mi8937_defconfig"
+      "name": "kernel_xiaomi_sdm845",
+      "repo": "https://github.com/MTK6893/kernel_xiaomi_sdm845",
+      "branch": "A15",
+      "device": "nogravity-polaris",
+      "defconfig": "nogravity-polaris_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
