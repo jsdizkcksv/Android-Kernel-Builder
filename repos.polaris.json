@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "kernel_xiaomi_cepheus",
-      "repo": "https://github.com/andrin-geiger/kernel_xiaomi_cepheus.git",
-      "branch": "ten",
+      "repo": "https://github.com/Dark-free/kernel_xiaomi_cepheus.git",
+      "branch": "eleven",
       "device": "cepheus",
       "defconfig": "cepheus_defconfig"
     },
