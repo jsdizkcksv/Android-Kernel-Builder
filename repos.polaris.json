@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_mt6893",
-      "repo": "https://github.com/jsdizkcksv/android_kernel_xiaomi_mt6893",
-      "branch": "A15",
-      "device": "ares",
-      "defconfig": "ares_user_defconfig"
+      "name": "kernel_xiaomi_cepheus",
+      "repo": "https://github.com/andrin-geiger/kernel_xiaomi_cepheus.git",
+      "branch": "ten",
+      "device": "cepheus",
+      "defconfig": "cepheus_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
