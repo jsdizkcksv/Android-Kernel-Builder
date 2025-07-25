@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "kernel_xiaomi_msm8937",
       "repo": "https://github.com/MTK6893/android_kernel_Note5A.git",
-      "branch": "fix",
+      "branch": "fix_1",
       "device": "Mi8937",
       "defconfig": "Mi8937_defconfig"
     },
