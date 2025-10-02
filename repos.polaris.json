@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_msm8937",
-      "repo": "https://github.com/MTK6893/android_kernel_Note5A.git",
-      "branch": "fix_1",
-      "device": "Mi8937",
-      "defconfig": "Mi8937_defconfig"
+      "name": "kernel_xiaomi_chopin",
+      "repo": "https://github.com/jsdizkcksv/5.10-bpf-mt6893.git",
+      "branch": "A16",
+      "device": "chopin",
+      "defconfig": "chopin_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
