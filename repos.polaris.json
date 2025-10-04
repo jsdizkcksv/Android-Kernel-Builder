@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_chopin",
-      "repo": "https://github.com/jsdizkcksv/5.10-bpf-mt6893.git",
-      "branch": "A16",
-      "device": "chopin",
-      "defconfig": "chopin_defconfig"
+      "name": "kernel_xiaomi_sdm845",
+      "repo": "https://github.com/MTK6893/android_kernel_xiaomi_sdm845_419.git",
+      "branch": "bpf-5.11",
+      "device": "sdm845",
+      "defconfig": "‎vendor/sdm845-perf_defconfig‎"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
