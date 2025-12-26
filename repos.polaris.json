@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_sdm845",
-      "repo": "https://github.com/MTK6893/android_kernel_xiaomi_sdm845_419.git",
-      "branch": "bpf-5.11",
-      "device": "sdm845",
-      "defconfig": "‎vendor/sdm845-perf_defconfig‎"
+      "name": "kernel_xiaomi_chopin",
+      "repo": "https://github.com/MTK6893/mt6893.git",
+      "branch": "HyperOS3",
+      "device": "chopin",
+      "defconfig": "‎chopin_user_defconfig‎"
     },
     "withKernelSU": false,
     "toolchains": [
