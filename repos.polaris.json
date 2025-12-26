@@ -5,7 +5,7 @@
       "repo": "https://github.com/MTK6893/mt6893.git",
       "branch": "HyperOS3",
       "device": "chopin",
-      "defconfig": "‎chopin_user_defconfig‎"
+      "defconfig": "‎chopin_user_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
