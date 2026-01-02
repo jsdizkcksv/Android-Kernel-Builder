@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_chopin",
+      "name": "kernel_xiaomi_ares",
       "repo": "https://github.com/MTK6893/mt6893.git",
-      "branch": "HyperOS-stable",
+      "branch": "ares",
       "device": "ares",
       "defconfig": "‎ares_defconfig"
     },
