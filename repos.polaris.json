@@ -3,11 +3,11 @@
     "kernelSource": {
       "name": "kernel_xiaomi_chopin",
       "repo": "https://github.com/MTK6893/mt6893.git",
-      "branch": "HyperOS3",
+      "branch": "HyperOS-stable",
       "device": "ares",
-      "defconfig": "‎ares_user_defconfig"
+      "defconfig": "‎ares_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
