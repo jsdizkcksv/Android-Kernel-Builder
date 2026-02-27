@@ -7,7 +7,7 @@
       "device": "dipper",
       "defconfig": "vendor/xiaomi/nogravity-dipper_defconfig‎"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
