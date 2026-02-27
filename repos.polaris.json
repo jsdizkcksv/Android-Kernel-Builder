@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_ares",
-      "repo": "https://github.com/MTK6893/mt6893.git",
-      "branch": "ares",
-      "device": "ares",
-      "defconfig": "‎ares_defconfig"
+      "name": "NGK_android_kernel_xiaomi_sdm845",
+      "repo": "https://github.com/Pierre2324/NGK_android_kernel_xiaomi_sdm845.git",
+      "branch": "dipper",
+      "device": "dipper",
+      "defconfig": "vendor/xiaomi/nogravity-dipper_defconfig‎"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
